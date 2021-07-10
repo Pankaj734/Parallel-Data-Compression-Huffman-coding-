@@ -5,7 +5,7 @@
 * **decompress.cu** - Perform huffman decompression on compressed file.
 * **GenerateInput.cu** - Automatically generates required input file of specified length.
 * **makefile** - Makefile
-* **testcases** - Folder with multiple testcases.
+* **testcase** - input testcase.
 * **README.md** - Brief description about project
 
 ### Quick Run :
